@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cut.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>save.png</file>
+        <file>underline.png</file>
+        <file>bold.png</file>
+        <file>color.png</file>
+        <file>italic.png</file>
+        <file>textcenter.png</file>
+        <file>textjustify.png</file>
+        <file>textleft.png</file>
+        <file>textright.png</file>
+        <file>copy.png</file>
+        <file>print.png</file>
+        <file>Screen.bmp</file>
+        <file>lsy.ico</file>
+        <file>love.ico</file>
+        <file>PagColor.ico</file>
+        <file>redo.png</file>
+        <file>undo.png</file>
+        <file>BackGround.jpg</file>
+    </qresource>
+</RCC>

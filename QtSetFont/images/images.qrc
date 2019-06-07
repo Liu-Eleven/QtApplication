@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bold.png</file>
+        <file>color.png</file>
+        <file>italic.png</file>
+        <file>textcenter.png</file>
+        <file>textjustify.png</file>
+        <file>textleft.png</file>
+        <file>textright.png</file>
+        <file>underline.png</file>
+        <file>BIN.ico</file>
+    </qresource>
+</RCC>

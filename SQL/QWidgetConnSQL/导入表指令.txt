@@ -1,0 +1,20 @@
+sqlite> select * from Student;
+
+
+sqlite> .separator ","
+sqlite> .import data.txt Student
+
+
+sqlite> select * from Student;
+LSY, NV,21,1, DHT
+RHZ, NV,20,2, XQZ
+ZY, NV,20,3, KZ
+NXY, NV,20,4, DG
+sqlite>
+
+导出表指令
+sqlite> .output create.sql
+sqlite> .dump Student
+sqlite> .output stdout
+sqlite>
+

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Love.ico</file>
+        <file>Love2.ico</file>
+        <file>Love3.ico</file>
+    </qresource>
+</RCC>

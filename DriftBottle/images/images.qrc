@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.bmp</file>
+        <file>11.ico</file>
+        <file>bottle.bmp</file>
+        <file>local.bmp</file>
+        <file>mybottle.bmp</file>
+        <file>net.bmp</file>
+    </qresource>
+</RCC>
